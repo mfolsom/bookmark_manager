@@ -1,0 +1,290 @@
+# Logfile created on 2014-02-10 11:44:03 +0000 by logger.rb/41954
+I, [2014-02-10T11:44:03.966346 #42639]  INFO -- : 0:  builder (3.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-02-10T11:44:07.984484 #42639]  INFO -- : 0:  mime-types (2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.1.gemspec
+I, [2014-02-10T11:44:10.373667 #42639]  INFO -- : 0:  mini_portile (0.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-10T11:47:46.579869 #42639]  INFO -- : 0:  nokogiri (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-10T11:47:46.580271 #42639]  INFO -- : 0:  rack (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-10T11:47:48.352819 #42639]  INFO -- : 0:  rack-test (0.6.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-10T11:47:51.885139 #42639]  INFO -- : 0:  xpath (2.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/xpath-2.0.0.gemspec
+I, [2014-02-10T11:47:54.934707 #42639]  INFO -- : 0:  capybara (2.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/capybara-2.2.1.gemspec
+I, [2014-02-10T11:48:03.981229 #42639]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-10T11:48:05.664010 #42639]  INFO -- : 0:  multi_json (1.8.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-10T11:48:40.479494 #42639]  INFO -- : 0:  gherkin (2.12.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/gherkin-2.12.2.gemspec
+I, [2014-02-10T11:48:41.612210 #42639]  INFO -- : 0:  multi_test (0.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_test-0.0.3.gemspec
+I, [2014-02-10T11:48:45.287769 #42639]  INFO -- : 0:  cucumber (1.3.10) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-1.3.10.gemspec
+I, [2014-02-10T11:48:46.947095 #42639]  INFO -- : 0:  extlib (0.9.16) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/extlib-0.9.16.gemspec
+I, [2014-02-10T11:48:49.879161 #42639]  INFO -- : 0:  highline (1.6.20) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/highline-1.6.20.gemspec
+I, [2014-02-10T11:48:51.367897 #42639]  INFO -- : 0:  templater (1.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/templater-1.0.0.gemspec
+I, [2014-02-10T11:48:53.051278 #42639]  INFO -- : 0:  cucumber-sinatra (0.5.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-sinatra-0.5.0.gemspec
+I, [2014-02-10T11:48:53.051531 #42639]  INFO -- : 0:  daemons (1.1.9) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-10T11:48:53.051712 #42639]  INFO -- : 0:  eventmachine (1.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/eventmachine-1.0.3.gemspec
+I, [2014-02-10T11:48:53.051885 #42639]  INFO -- : 0:  rack-protection (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-10T11:48:56.513373 #42639]  INFO -- : 0:  rspec-core (2.14.7) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-10T11:48:58.570948 #42639]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-10T11:49:00.751247 #42639]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-10T11:49:01.915130 #42639]  INFO -- : 0:  rspec (2.14.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-02-10T11:49:01.915556 #42639]  INFO -- : 0:  tilt (1.4.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-10T11:49:01.915838 #42639]  INFO -- : 0:  sinatra (1.4.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-10T11:49:01.916074 #42639]  INFO -- : 0:  thin (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/thin-1.6.1.gemspec
+I, [2014-02-10T11:49:01.916342 #42639]  INFO -- : 0:  bundler (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-11T10:05:56.141632 #62813]  INFO -- : 0:  addressable (2.3.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/addressable-2.3.5.gemspec
+I, [2014-02-11T10:06:00.531416 #62813]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-11T10:06:00.531896 #62813]  INFO -- : 0:  builder (3.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-02-11T10:06:00.532192 #62813]  INFO -- : 0:  mime-types (2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.1.gemspec
+I, [2014-02-11T10:06:00.532462 #62813]  INFO -- : 0:  mini_portile (0.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-11T10:06:00.532737 #62813]  INFO -- : 0:  nokogiri (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-11T10:06:00.532997 #62813]  INFO -- : 0:  rack (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-11T10:06:00.533277 #62813]  INFO -- : 0:  rack-test (0.6.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-11T10:06:00.533532 #62813]  INFO -- : 0:  xpath (2.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/xpath-2.0.0.gemspec
+I, [2014-02-11T10:06:00.533779 #62813]  INFO -- : 0:  capybara (2.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/capybara-2.2.1.gemspec
+I, [2014-02-11T10:06:00.534049 #62813]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-11T10:06:00.534292 #62813]  INFO -- : 0:  multi_json (1.8.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-11T10:06:00.534540 #62813]  INFO -- : 0:  gherkin (2.12.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/gherkin-2.12.2.gemspec
+I, [2014-02-11T10:06:00.534797 #62813]  INFO -- : 0:  multi_test (0.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_test-0.0.3.gemspec
+I, [2014-02-11T10:06:00.535044 #62813]  INFO -- : 0:  cucumber (1.3.10) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-1.3.10.gemspec
+I, [2014-02-11T10:06:00.535284 #62813]  INFO -- : 0:  extlib (0.9.16) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/extlib-0.9.16.gemspec
+I, [2014-02-11T10:06:00.535517 #62813]  INFO -- : 0:  highline (1.6.20) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/highline-1.6.20.gemspec
+I, [2014-02-11T10:06:00.535730 #62813]  INFO -- : 0:  templater (1.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/templater-1.0.0.gemspec
+I, [2014-02-11T10:06:00.535935 #62813]  INFO -- : 0:  cucumber-sinatra (0.5.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-sinatra-0.5.0.gemspec
+I, [2014-02-11T10:06:00.536112 #62813]  INFO -- : 0:  daemons (1.1.9) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-11T10:06:03.548952 #62813]  INFO -- : 0:  dm-core (1.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-core-1.2.1.gemspec
+I, [2014-02-11T10:06:05.198974 #62813]  INFO -- : 0:  dm-aggregates (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-aggregates-1.2.0.gemspec
+I, [2014-02-11T10:06:08.581436 #62813]  INFO -- : 0:  dm-constraints (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-constraints-1.2.0.gemspec
+I, [2014-02-11T10:06:10.061914 #62813]  INFO -- : 0:  dm-migrations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-migrations-1.2.0.gemspec
+I, [2014-02-11T10:06:12.227645 #62813]  INFO -- : 0:  fastercsv (1.5.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/fastercsv-1.5.5.gemspec
+I, [2014-02-11T10:06:14.674804 #62813]  INFO -- : 0:  json (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-02-11T10:06:19.553702 #62813]  INFO -- : 0:  json_pure (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json_pure-1.8.1.gemspec
+I, [2014-02-11T10:06:21.136405 #62813]  INFO -- : 0:  dm-serializer (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-serializer-1.2.2.gemspec
+I, [2014-02-11T10:06:22.349599 #62813]  INFO -- : 0:  dm-timestamps (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-timestamps-1.2.0.gemspec
+I, [2014-02-11T10:06:23.727492 #62813]  INFO -- : 0:  dm-transactions (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-transactions-1.2.0.gemspec
+I, [2014-02-11T10:06:25.536192 #62813]  INFO -- : 0:  stringex (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/stringex-1.5.1.gemspec
+I, [2014-02-11T10:06:32.708026 #62813]  INFO -- : 0:  uuidtools (2.1.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/uuidtools-2.1.4.gemspec
+I, [2014-02-11T10:06:34.025064 #62813]  INFO -- : 0:  dm-types (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-types-1.2.2.gemspec
+I, [2014-02-11T10:06:35.504444 #62813]  INFO -- : 0:  dm-validations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-validations-1.2.0.gemspec
+I, [2014-02-11T10:06:36.711651 #62813]  INFO -- : 0:  data_mapper (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_mapper-1.2.0.gemspec
+I, [2014-02-11T10:06:38.388405 #62813]  INFO -- : 0:  data_objects (0.10.13) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_objects-0.10.13.gemspec
+I, [2014-02-11T10:06:39.662320 #62813]  INFO -- : 0:  dm-do-adapter (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-do-adapter-1.2.0.gemspec
+E, [2014-02-11T10:06:41.693081 #62813] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for main() in -lpq... yes
+checking for libpq-fe.h... no
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pgsql-server-dir
+	--without-pgsql-server-dir
+	--with-pgsql-server-include
+	--without-pgsql-server-include=${pgsql-server-dir}/include
+	--with-pgsql-server-lib
+	--without-pgsql-server-lib=${pgsql-server-dir}/
+	--with-pgsql-client-dir
+	--without-pgsql-client-dir
+	--with-pgsql-client-include
+	--without-pgsql-client-include=${pgsql-client-dir}/include
+	--with-pgsql-client-lib
+	--without-pgsql-client-lib=${pgsql-client-dir}/
+	--with-pqlib
+	--without-pqlib
+Could not find PostgreSQL build environment (libraries & headers): Makefile not created
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/gems/do_postgres-0.10.13 for inspection.
+Results logged to /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/extensions/x86_64-darwin-12/2.0.0-static/do_postgres-0.10.13/gem_make.out
+
+/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:232:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `load'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `<main>'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `eval'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-11T10:10:29.006370 #63154]  INFO -- : 0:  addressable (2.3.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/addressable-2.3.5.gemspec
+I, [2014-02-11T10:10:29.006659 #63154]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-11T10:10:29.006914 #63154]  INFO -- : 0:  builder (3.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-02-11T10:10:29.007143 #63154]  INFO -- : 0:  mime-types (2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.1.gemspec
+I, [2014-02-11T10:10:29.007387 #63154]  INFO -- : 0:  mini_portile (0.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-11T10:10:29.007614 #63154]  INFO -- : 0:  nokogiri (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-11T10:10:29.007861 #63154]  INFO -- : 0:  rack (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-11T10:10:29.008111 #63154]  INFO -- : 0:  rack-test (0.6.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-11T10:10:29.008342 #63154]  INFO -- : 0:  xpath (2.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/xpath-2.0.0.gemspec
+I, [2014-02-11T10:10:29.008584 #63154]  INFO -- : 0:  capybara (2.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/capybara-2.2.1.gemspec
+I, [2014-02-11T10:10:29.008819 #63154]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-11T10:10:29.009085 #63154]  INFO -- : 0:  multi_json (1.8.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-11T10:10:29.009304 #63154]  INFO -- : 0:  gherkin (2.12.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/gherkin-2.12.2.gemspec
+I, [2014-02-11T10:10:29.009536 #63154]  INFO -- : 0:  multi_test (0.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_test-0.0.3.gemspec
+I, [2014-02-11T10:10:29.009737 #63154]  INFO -- : 0:  cucumber (1.3.10) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-1.3.10.gemspec
+I, [2014-02-11T10:10:29.009923 #63154]  INFO -- : 0:  extlib (0.9.16) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/extlib-0.9.16.gemspec
+I, [2014-02-11T10:10:29.010087 #63154]  INFO -- : 0:  highline (1.6.20) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/highline-1.6.20.gemspec
+I, [2014-02-11T10:10:29.010253 #63154]  INFO -- : 0:  templater (1.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/templater-1.0.0.gemspec
+I, [2014-02-11T10:10:29.010412 #63154]  INFO -- : 0:  cucumber-sinatra (0.5.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-sinatra-0.5.0.gemspec
+I, [2014-02-11T10:10:29.010574 #63154]  INFO -- : 0:  daemons (1.1.9) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-11T10:10:29.010737 #63154]  INFO -- : 0:  dm-core (1.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-core-1.2.1.gemspec
+I, [2014-02-11T10:10:29.010898 #63154]  INFO -- : 0:  dm-aggregates (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-aggregates-1.2.0.gemspec
+I, [2014-02-11T10:10:29.011063 #63154]  INFO -- : 0:  dm-constraints (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-constraints-1.2.0.gemspec
+I, [2014-02-11T10:10:29.011254 #63154]  INFO -- : 0:  dm-migrations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-migrations-1.2.0.gemspec
+I, [2014-02-11T10:10:29.011413 #63154]  INFO -- : 0:  fastercsv (1.5.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/fastercsv-1.5.5.gemspec
+I, [2014-02-11T10:10:29.011583 #63154]  INFO -- : 0:  json (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-02-11T10:10:29.011747 #63154]  INFO -- : 0:  json_pure (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json_pure-1.8.1.gemspec
+I, [2014-02-11T10:10:29.011902 #63154]  INFO -- : 0:  dm-serializer (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-serializer-1.2.2.gemspec
+I, [2014-02-11T10:10:29.012063 #63154]  INFO -- : 0:  dm-timestamps (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-timestamps-1.2.0.gemspec
+I, [2014-02-11T10:10:29.012223 #63154]  INFO -- : 0:  dm-transactions (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-transactions-1.2.0.gemspec
+I, [2014-02-11T10:10:29.012377 #63154]  INFO -- : 0:  stringex (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/stringex-1.5.1.gemspec
+I, [2014-02-11T10:10:29.012539 #63154]  INFO -- : 0:  uuidtools (2.1.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/uuidtools-2.1.4.gemspec
+I, [2014-02-11T10:10:29.012700 #63154]  INFO -- : 0:  dm-types (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-types-1.2.2.gemspec
+I, [2014-02-11T10:10:29.012867 #63154]  INFO -- : 0:  dm-validations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-validations-1.2.0.gemspec
+I, [2014-02-11T10:10:29.013031 #63154]  INFO -- : 0:  data_mapper (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_mapper-1.2.0.gemspec
+I, [2014-02-11T10:10:29.013192 #63154]  INFO -- : 0:  data_objects (0.10.13) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_objects-0.10.13.gemspec
+I, [2014-02-11T10:10:29.013366 #63154]  INFO -- : 0:  dm-do-adapter (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-do-adapter-1.2.0.gemspec
+E, [2014-02-11T10:10:29.217486 #63154] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for main() in -lpq... yes
+checking for libpq-fe.h... no
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pgsql-server-dir
+	--without-pgsql-server-dir
+	--with-pgsql-server-include
+	--without-pgsql-server-include=${pgsql-server-dir}/include
+	--with-pgsql-server-lib
+	--without-pgsql-server-lib=${pgsql-server-dir}/
+	--with-pgsql-client-dir
+	--without-pgsql-client-dir
+	--with-pgsql-client-include
+	--without-pgsql-client-include=${pgsql-client-dir}/include
+	--with-pgsql-client-lib
+	--without-pgsql-client-lib=${pgsql-client-dir}/
+	--with-pqlib
+	--without-pqlib
+Could not find PostgreSQL build environment (libraries & headers): Makefile not created
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/gems/do_postgres-0.10.13 for inspection.
+Results logged to /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/extensions/x86_64-darwin-12/2.0.0-static/do_postgres-0.10.13/gem_make.out
+
+/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:232:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/meganfolsom/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `load'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `<main>'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `eval'  \n/Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-02-11T11:26:53.585607 #67929]  INFO -- : 0:  addressable (2.3.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/addressable-2.3.5.gemspec
+I, [2014-02-11T11:26:53.585913 #67929]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-11T11:26:53.586169 #67929]  INFO -- : 0:  builder (3.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-02-11T11:26:53.586402 #67929]  INFO -- : 0:  mime-types (2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.1.gemspec
+I, [2014-02-11T11:26:53.586637 #67929]  INFO -- : 0:  mini_portile (0.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-11T11:26:53.586859 #67929]  INFO -- : 0:  nokogiri (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-11T11:26:53.587098 #67929]  INFO -- : 0:  rack (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-11T11:26:53.587335 #67929]  INFO -- : 0:  rack-test (0.6.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-11T11:26:53.587563 #67929]  INFO -- : 0:  xpath (2.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/xpath-2.0.0.gemspec
+I, [2014-02-11T11:26:53.587787 #67929]  INFO -- : 0:  capybara (2.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/capybara-2.2.1.gemspec
+I, [2014-02-11T11:26:53.588020 #67929]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-11T11:26:53.588246 #67929]  INFO -- : 0:  multi_json (1.8.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-11T11:26:53.588480 #67929]  INFO -- : 0:  gherkin (2.12.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/gherkin-2.12.2.gemspec
+I, [2014-02-11T11:26:53.588702 #67929]  INFO -- : 0:  multi_test (0.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_test-0.0.3.gemspec
+I, [2014-02-11T11:26:53.588914 #67929]  INFO -- : 0:  cucumber (1.3.10) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-1.3.10.gemspec
+I, [2014-02-11T11:26:53.589091 #67929]  INFO -- : 0:  extlib (0.9.16) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/extlib-0.9.16.gemspec
+I, [2014-02-11T11:26:53.589275 #67929]  INFO -- : 0:  highline (1.6.20) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/highline-1.6.20.gemspec
+I, [2014-02-11T11:26:53.589447 #67929]  INFO -- : 0:  templater (1.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/templater-1.0.0.gemspec
+I, [2014-02-11T11:26:53.589619 #67929]  INFO -- : 0:  cucumber-sinatra (0.5.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-sinatra-0.5.0.gemspec
+I, [2014-02-11T11:26:53.589804 #67929]  INFO -- : 0:  daemons (1.1.9) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-11T11:26:53.589970 #67929]  INFO -- : 0:  dm-core (1.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-core-1.2.1.gemspec
+I, [2014-02-11T11:26:53.590142 #67929]  INFO -- : 0:  dm-aggregates (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-aggregates-1.2.0.gemspec
+I, [2014-02-11T11:26:53.590319 #67929]  INFO -- : 0:  dm-constraints (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-constraints-1.2.0.gemspec
+I, [2014-02-11T11:26:53.590500 #67929]  INFO -- : 0:  dm-migrations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-migrations-1.2.0.gemspec
+I, [2014-02-11T11:26:53.590710 #67929]  INFO -- : 0:  fastercsv (1.5.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/fastercsv-1.5.5.gemspec
+I, [2014-02-11T11:26:53.590921 #67929]  INFO -- : 0:  json (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-02-11T11:26:53.591117 #67929]  INFO -- : 0:  json_pure (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json_pure-1.8.1.gemspec
+I, [2014-02-11T11:26:53.591314 #67929]  INFO -- : 0:  dm-serializer (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-serializer-1.2.2.gemspec
+I, [2014-02-11T11:26:53.591510 #67929]  INFO -- : 0:  dm-timestamps (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-timestamps-1.2.0.gemspec
+I, [2014-02-11T11:26:53.591705 #67929]  INFO -- : 0:  dm-transactions (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-transactions-1.2.0.gemspec
+I, [2014-02-11T11:26:53.591892 #67929]  INFO -- : 0:  stringex (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/stringex-1.5.1.gemspec
+I, [2014-02-11T11:26:53.592093 #67929]  INFO -- : 0:  uuidtools (2.1.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/uuidtools-2.1.4.gemspec
+I, [2014-02-11T11:26:53.592301 #67929]  INFO -- : 0:  dm-types (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-types-1.2.2.gemspec
+I, [2014-02-11T11:26:53.592511 #67929]  INFO -- : 0:  dm-validations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-validations-1.2.0.gemspec
+I, [2014-02-11T11:26:53.603331 #67929]  INFO -- : 0:  data_mapper (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_mapper-1.2.0.gemspec
+I, [2014-02-11T11:26:53.603597 #67929]  INFO -- : 0:  data_objects (0.10.13) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_objects-0.10.13.gemspec
+I, [2014-02-11T11:26:53.603783 #67929]  INFO -- : 0:  dm-do-adapter (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-do-adapter-1.2.0.gemspec
+I, [2014-02-11T11:26:53.603963 #67929]  INFO -- : 0:  do_postgres (0.10.13) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/do_postgres-0.10.13.gemspec
+I, [2014-02-11T11:26:55.462094 #67929]  INFO -- : 0:  dm-postgres-adapter (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-postgres-adapter-1.2.0.gemspec
+I, [2014-02-11T11:26:55.462425 #67929]  INFO -- : 0:  eventmachine (1.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/eventmachine-1.0.3.gemspec
+I, [2014-02-11T11:26:55.462656 #67929]  INFO -- : 0:  rack-protection (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-11T11:26:55.462878 #67929]  INFO -- : 0:  rspec-core (2.14.7) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-11T11:26:55.463100 #67929]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-11T11:26:55.463321 #67929]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-11T11:26:55.463538 #67929]  INFO -- : 0:  rspec (2.14.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-02-11T11:26:55.463754 #67929]  INFO -- : 0:  tilt (1.4.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-11T11:26:55.463971 #67929]  INFO -- : 0:  sinatra (1.4.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-11T11:26:55.464188 #67929]  INFO -- : 0:  thin (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/thin-1.6.1.gemspec
+I, [2014-02-11T11:26:55.464397 #67929]  INFO -- : 0:  bundler (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-11T11:51:49.771790 #68066]  INFO -- : 0:  addressable (2.3.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/addressable-2.3.5.gemspec
+I, [2014-02-11T11:51:49.772103 #68066]  INFO -- : 0:  bcrypt-ruby (3.1.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/bcrypt-ruby-3.1.2.gemspec
+I, [2014-02-11T11:51:49.772305 #68066]  INFO -- : 0:  builder (3.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.2.2.gemspec
+I, [2014-02-11T11:51:49.772502 #68066]  INFO -- : 0:  mime-types (2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.1.gemspec
+I, [2014-02-11T11:51:49.772744 #68066]  INFO -- : 0:  mini_portile (0.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-11T11:51:49.772989 #68066]  INFO -- : 0:  nokogiri (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-11T11:51:49.773220 #68066]  INFO -- : 0:  rack (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-11T11:51:49.773462 #68066]  INFO -- : 0:  rack-test (0.6.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-11T11:51:49.773687 #68066]  INFO -- : 0:  xpath (2.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/xpath-2.0.0.gemspec
+I, [2014-02-11T11:51:49.773925 #68066]  INFO -- : 0:  capybara (2.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/capybara-2.2.1.gemspec
+I, [2014-02-11T11:51:49.774161 #68066]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-11T11:51:49.774397 #68066]  INFO -- : 0:  multi_json (1.8.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-11T11:51:49.774593 #68066]  INFO -- : 0:  gherkin (2.12.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/gherkin-2.12.2.gemspec
+I, [2014-02-11T11:51:49.774785 #68066]  INFO -- : 0:  multi_test (0.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/multi_test-0.0.3.gemspec
+I, [2014-02-11T11:51:49.774955 #68066]  INFO -- : 0:  cucumber (1.3.10) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-1.3.10.gemspec
+I, [2014-02-11T11:51:49.775134 #68066]  INFO -- : 0:  extlib (0.9.16) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/extlib-0.9.16.gemspec
+I, [2014-02-11T11:51:49.775320 #68066]  INFO -- : 0:  highline (1.6.20) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/highline-1.6.20.gemspec
+I, [2014-02-11T11:51:49.775514 #68066]  INFO -- : 0:  templater (1.0.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/templater-1.0.0.gemspec
+I, [2014-02-11T11:51:49.775700 #68066]  INFO -- : 0:  cucumber-sinatra (0.5.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/cucumber-sinatra-0.5.0.gemspec
+I, [2014-02-11T11:51:49.775873 #68066]  INFO -- : 0:  daemons (1.1.9) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-11T11:51:49.776074 #68066]  INFO -- : 0:  dm-core (1.2.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-core-1.2.1.gemspec
+I, [2014-02-11T11:51:49.776260 #68066]  INFO -- : 0:  dm-aggregates (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-aggregates-1.2.0.gemspec
+I, [2014-02-11T11:51:49.776431 #68066]  INFO -- : 0:  dm-constraints (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-constraints-1.2.0.gemspec
+I, [2014-02-11T11:51:49.776614 #68066]  INFO -- : 0:  dm-migrations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-migrations-1.2.0.gemspec
+I, [2014-02-11T11:51:49.776789 #68066]  INFO -- : 0:  fastercsv (1.5.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/fastercsv-1.5.5.gemspec
+I, [2014-02-11T11:51:49.776987 #68066]  INFO -- : 0:  json (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-02-11T11:51:49.777162 #68066]  INFO -- : 0:  json_pure (1.8.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/json_pure-1.8.1.gemspec
+I, [2014-02-11T11:51:49.777328 #68066]  INFO -- : 0:  dm-serializer (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-serializer-1.2.2.gemspec
+I, [2014-02-11T11:51:49.777488 #68066]  INFO -- : 0:  dm-timestamps (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-timestamps-1.2.0.gemspec
+I, [2014-02-11T11:51:49.777642 #68066]  INFO -- : 0:  dm-transactions (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-transactions-1.2.0.gemspec
+I, [2014-02-11T11:51:49.777809 #68066]  INFO -- : 0:  stringex (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/stringex-1.5.1.gemspec
+I, [2014-02-11T11:51:49.777978 #68066]  INFO -- : 0:  uuidtools (2.1.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/uuidtools-2.1.4.gemspec
+I, [2014-02-11T11:51:49.778165 #68066]  INFO -- : 0:  dm-types (1.2.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-types-1.2.2.gemspec
+I, [2014-02-11T11:51:49.778358 #68066]  INFO -- : 0:  dm-validations (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-validations-1.2.0.gemspec
+I, [2014-02-11T11:51:49.778550 #68066]  INFO -- : 0:  data_mapper (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_mapper-1.2.0.gemspec
+I, [2014-02-11T11:51:49.778739 #68066]  INFO -- : 0:  data_objects (0.10.13) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/data_objects-0.10.13.gemspec
+I, [2014-02-11T11:51:51.784061 #68066]  INFO -- : 0:  database_cleaner (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/database_cleaner-1.2.0.gemspec
+I, [2014-02-11T11:51:51.784374 #68066]  INFO -- : 0:  dm-do-adapter (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-do-adapter-1.2.0.gemspec
+I, [2014-02-11T11:51:51.784587 #68066]  INFO -- : 0:  do_postgres (0.10.13) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/do_postgres-0.10.13.gemspec
+I, [2014-02-11T11:51:51.784790 #68066]  INFO -- : 0:  dm-postgres-adapter (1.2.0) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/dm-postgres-adapter-1.2.0.gemspec
+I, [2014-02-11T11:51:51.784991 #68066]  INFO -- : 0:  eventmachine (1.0.3) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/eventmachine-1.0.3.gemspec
+I, [2014-02-11T11:51:51.785193 #68066]  INFO -- : 0:  rack-protection (1.5.2) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-11T11:51:51.785394 #68066]  INFO -- : 0:  rspec-core (2.14.7) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-11T11:51:51.785592 #68066]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-11T11:51:51.785796 #68066]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-11T11:51:51.785978 #68066]  INFO -- : 0:  rspec (2.14.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-02-11T11:51:51.786176 #68066]  INFO -- : 0:  tilt (1.4.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-11T11:51:51.786386 #68066]  INFO -- : 0:  sinatra (1.4.4) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-11T11:51:51.786582 #68066]  INFO -- : 0:  thin (1.6.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353/specifications/thin-1.6.1.gemspec
+I, [2014-02-11T11:51:51.786773 #68066]  INFO -- : 0:  bundler (1.5.1) from /Users/meganfolsom/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
