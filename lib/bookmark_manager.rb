@@ -12,7 +12,6 @@ set :views, File.join(File.dirname(__FILE__), '../views')
     erb :index
   end
 
-
   post '/links' do
     url = params["url"]
     title = params["title"]
@@ -21,6 +20,12 @@ set :views, File.join(File.dirname(__FILE__), '../views')
     end
     Link.create(:url => url, :title => title, :tags => tags)
     redirect to('/')
+  end
+
+  get '/tags/:text' do
+    tag = Tag.first(:text => params[:text])
+    @links = tag ? tag.links : []
+    erb :index
   end
 
   # start the server if ruby file executed directly
