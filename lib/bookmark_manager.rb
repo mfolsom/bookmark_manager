@@ -11,10 +11,12 @@ set :views, File.join(File.dirname(__FILE__), '../views')
   end
 
 
-  # post '/' do
-  #   params[:new_link]
-  #   erb :index
-  # end
+  post '/links' do
+    url = params["url"]
+    title = params["title"]
+    Link.create(:url => url, :title => title)
+    redirect to('/')
+  end
 
   # start the server if ruby file executed directly
   run! if app_file == $0
