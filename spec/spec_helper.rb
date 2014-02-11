@@ -1,7 +1,8 @@
 ENV["RACK_ENV"] = "test"
 require './server'
-require 'link'
 require 'sinatra'
+require 'link'
+require 'tag'
 require 'database_cleaner'
 require 'capybara/rspec'
 require 'bookmark_manager'

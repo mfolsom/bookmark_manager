@@ -5,6 +5,8 @@ require_relative 'link'
 class BookmarkManager < Sinatra::Base
 set :views, File.join(File.dirname(__FILE__), '../views')
 
+
+
   get '/' do
     @links = Link.all
     erb :index
@@ -14,7 +16,10 @@ set :views, File.join(File.dirname(__FILE__), '../views')
   post '/links' do
     url = params["url"]
     title = params["title"]
-    Link.create(:url => url, :title => title)
+    tags = params["tags"].split(" ").map do |tag|
+    Tag.first_or_create(:text => tag)
+    end
+    Link.create(:url => url, :title => title, :tags => tags)
     redirect to('/')
   end
 

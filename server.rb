@@ -2,7 +2,6 @@ require 'sinatra'
 require 'data_mapper'
 require_relative 'lib/bookmark_manager'
 
-class BookmarkManager < Sinatra::Base
 
 
 env = ENV["RACK_ENV"] || "development"
@@ -11,11 +10,10 @@ env = ENV["RACK_ENV"] || "development"
 DataMapper.setup(:default, "postgres://localhost/bookmark_manager_#{env}")
 
 require './lib/link'
-
+require './lib/tag'
 
 DataMapper.finalize
 
 DataMapper.auto_upgrade!
 
 
-end
