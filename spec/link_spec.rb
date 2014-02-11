@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe Link do
-  context "demonstrtion of how datamapper works" do
+  context "demonstration of how datamapper works" do
     it 'should be created and then retrieved from the db' do
       expect(Link.count).to eq(0)
       Link.create(:title =>"Makers Academy",

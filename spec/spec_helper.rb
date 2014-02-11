@@ -4,8 +4,9 @@ require 'link'
 require 'sinatra'
 require 'database_cleaner'
 require 'capybara/rspec'
+require 'bookmark_manager'
 
-Capybara.app = Sinatra::Application
+Capybara.app = BookmarkManager
 
 RSpec.configure do |config|
   config.before(:suite) do
