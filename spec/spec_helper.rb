@@ -1,11 +1,9 @@
 ENV["RACK_ENV"] = "test"
-require './server'
-require 'sinatra'
-require 'link'
-require 'tag'
+require './app/bookmark_manager'
+
 require 'database_cleaner'
 require 'capybara/rspec'
-require 'bookmark_manager'
+
 
 Capybara.app = BookmarkManager
 

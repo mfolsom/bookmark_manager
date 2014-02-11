@@ -1,10 +1,16 @@
 require 'sinatra/base'
-require_relative '../server'
-require_relative 'link'
+require 'data_mapper'
+require_relative '../lib/link'
+require_relative '../lib/tag'
+require_relative '../lib/user'
+require_relative 'helpers/application'
+require_relative 'data_mapper_setup.rb'
 
 class BookmarkManager < Sinatra::Base
-set :views, File.join(File.dirname(__FILE__), '../views')
+  enable :sessions
+  set :session_secret, 'carpe diem'
 
+  helpers UserHelper
 
 
   get '/' do
@@ -26,6 +32,17 @@ set :views, File.join(File.dirname(__FILE__), '../views')
     tag = Tag.first(:text => params[:text])
     @links = tag ? tag.links : []
     erb :index
+  end
+
+  get '/users/new' do
+    erb :"users/new"
+  end
+
+  post '/users' do
+    user = User.create(:email => params[:email],
+                :password => params[:password])
+    session[:user_id] = user.id
+    redirect to('/')
   end
 
   # start the server if ruby file executed directly

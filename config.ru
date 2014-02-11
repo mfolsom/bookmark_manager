@@ -1,5 +1,5 @@
-require './server'
+require './app/data_mapper_setup'
 
-require File.join(File.dirname(__FILE__), 'lib/bookmark_manager.rb')
+require File.join(File.dirname(__FILE__), 'app/bookmark_manager.rb')
 
 run BookmarkManager
