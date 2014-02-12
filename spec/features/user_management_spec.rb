@@ -1,4 +1,5 @@
 require 'spec_helper'
+include SessionHelpers
 
 feature "User signs up" do
   scenario "while not logged in" do
@@ -24,16 +25,6 @@ feature "User signs up" do
     visit 'users/new'
     click_button "Sign up"
     expect(page).to have_content("We need your email address")
-  end
-
-  def sign_up(email = "barneyrubble@example.com",
-              password = "oranges!",
-              password_confirmation = "oranges!")
-    visit 'users/new'
-    fill_in :email, :with => email
-    fill_in :password, :with => password
-    fill_in :password_confirmation, :with => password_confirmation
-    click_button "Sign up"
   end
   
 end

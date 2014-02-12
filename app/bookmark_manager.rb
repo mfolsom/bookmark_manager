@@ -13,6 +13,7 @@ class BookmarkManager < Sinatra::Base
 
   helpers UserHelper
   use Rack::Flash
+  use Rack::MethodOverride
 
   get '/' do
     @links = Link.all
@@ -55,6 +56,12 @@ post '/sessions' do
     flash.now[:errors] = ["The email or password are incorrect"]
     erb :"sessions/new"
   end
+end
+
+delete '/sessions' do
+  flash[:notice] ="Good bye!" 
+  session[:user_id] = nil
+  redirect to('/')
 end
 
   post '/users' do
