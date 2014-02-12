@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'sinatra/partial'
 require 'data_mapper'
 require 'rack-flash'
 require_relative '../lib/link'
@@ -8,12 +9,13 @@ require_relative 'helpers/application'
 require_relative 'data_mapper_setup.rb'
 
 class BookmarkManager < Sinatra::Base
+  register Sinatra::Partial
   enable :sessions
   set :session_secret, 'carpe diem'
-
-  helpers UserHelper
   use Rack::Flash
+  set :partial_template_engine, :erb
   use Rack::MethodOverride
+  helpers UserHelper
 
   get '/' do
     @links = Link.all
