@@ -1,14 +1,77 @@
 
 
+a.button {
+  display: inline-block;
+  -moz-box-shadow:inset 0px 1px 0px 0px #caefab;
+  -webkit-box-shadow:inset 0px 1px 0px 0px #caefab;
+  box-shadow:inset 0px 1px 0px 0px #caefab;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #77d42a), color-stop(1, #5cb811) );
+  background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#77d42a', endColorstr='#5cb811');
+  background-color:#77d42a;
+  -webkit-border-top-left-radius:20px;
+  -moz-border-radius-topleft:20px;
+  border-top-left-radius:20px;
+  -webkit-border-top-right-radius:20px;
+  -moz-border-radius-topright:20px;
+  border-top-right-radius:20px;
+  -webkit-border-bottom-right-radius:20px;
+  -moz-border-radius-bottomright:20px;
+  border-bottom-right-radius:20px;
+  -webkit-border-bottom-left-radius:20px;
+  -moz-border-radius-bottomleft:20px;
+  border-bottom-left-radius:20px;
+  text-indent:0;
+  border:1px solid #268a16;
+  display:inline-block;
+  color:#306108;
+  font-family:Arial;
+  font-size:23px;
+  font-weight:bold;
+  font-style:normal;
+  height:34px;
+  line-height:34px;
+  width:110px;
+  text-decoration:none;
+  text-align:center;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 3px;
+  text-shadow:1px 1px 0px #aade7c;
+}
+
+a.button:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #5cb811), color-stop(1, #77d42a) );
+  background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cb811', endColorstr='#77d42a');
+  background-color:#5cb811;
+}a.button:active {
+  position:relative;
+  top:1px;
+}
 header {
   width: 100%;
   height: 100%;
-  background-color: rgb(0,0,0)
+  background-color: rgb(0,0,0);
 }
 
 header #logo {
   margin: auto 0;
   display: flex;
-  font-family: Helvetica, arial, Sans-serif;
-
+  font-family: Helvetica, arial, sans-serif;
+  color: white;
 }
+
+  header > * {
+    margin: auto 0;
+  }
+  header #logo {    
+    display: flex;      
+  }
+
+  header #user-links {
+    flex: 1; 
+    -webkit-flex: 1;
+    text-align: right;  
+  }
