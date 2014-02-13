@@ -13,7 +13,8 @@ feature "User adds a new link" do
 
   scenario "with a few tags" do
     visit "/links/new"
-    add_link("http://www.makersacademy.com/", "Makers Academy", ['education', 'ruby'])    
+    add_link("http://www.makersacademy.com/", "Makers Academy", ['education', 'ruby'])
+    expect(page).to have_content("Makers Academy")
     link = Link.first
     expect(link.tags.map(&:text)).to include("education")
     expect(link.tags.map(&:text)).to include("ruby")
