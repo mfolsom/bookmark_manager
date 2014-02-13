@@ -30,4 +30,10 @@ require 'spec_helper'
     expect(page).to have_content("Google")
     expect(page).to have_content("Bing")
   end
+  scenario "search for a tag" do
+    visit '/tags'
+    fill_in :search, :with => "search"
+    click_button "search"
+    expect(page).to have_content("Bing")
+  end
 end

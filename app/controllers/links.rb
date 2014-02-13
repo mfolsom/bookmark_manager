@@ -19,6 +19,15 @@ module Controllers
       erb :"links/new"
     end
 
+    get '/tags' do
+      erb :tags
+    end
+
+    post '/tags/:text' do
+      tag = params[:search]
+      redirect to('/tags/'+ tag)
+    end
+
     get '/tags/:text' do
       tag = Tag.first(:text => params[:text])
       @links = tag ? tag.links : []
