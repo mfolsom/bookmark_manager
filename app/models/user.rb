@@ -21,6 +21,20 @@ class User
     @password = password
     self.password_digest = BCrypt::Password.create(password)
   end
+  def password_token
+    (1..64).map{('A'..'Z').to_a.sample}.join
+  end
+
+  def password_token_timestamp
+    Time.now
+  end
+
+  def self.check_email(email)
+    user = first(:email => email)
+    user.password_token
+    user.password_token_timestamp
+    user.save
+  end
 
   def self.authenticate(email,password)
     user = first(:email =>email)
