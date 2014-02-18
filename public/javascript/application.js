@@ -1,12 +1,13 @@
-//favorites
 
-function addFavoritesHandler() {
-  $('.star.solid').click(function() {
-    var newOpacity = 1 - parseInt($(this).css('opacity')); //by subtracting the current opacity from 1 we get the other opacity
-    $(this).animate({opacity:newOpacity},1000);
-  });
-}
 
-$(function()  {
- addFavoritesHandler();
-})
+$(".link").data("favorited", true); //set
+$(".link").data("favorited") //read
+
+$(".star.solid").click(function(event){
+  var link = $(this).parent();
+  var favorited = !!$(link).data("favorited");
+  var newOpacity = favorited ? 0 : 1;
+  $(link).data("favorited", !favorited);
+  $(this).animate({opacity: newOpacity}, 1000);
+});
+
