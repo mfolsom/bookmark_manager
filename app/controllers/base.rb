@@ -8,6 +8,7 @@ module Controllers
 
     enable :sessions
     set :session_secret, 'carpe diem'
+    set :static, true
     
     use Rack::Flash
     use Rack::MethodOverride

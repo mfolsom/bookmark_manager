@@ -24,6 +24,23 @@ a {
   color: #b77843;
 }
 
+.link {
+  position: relative;
+}
+
+.link .star {
+  position: absolute;
+  font-size: 24px;
+  right: 5px;
+  top: 5px;
+  color: yellowgreen;
+  cursor: pointer;
+}
+
+.link .star.solid {
+  opacity: 0;
+}
+
 .button {
   display: inline-block; 
   width: 110px;
