@@ -16,7 +16,7 @@ module Controllers
     end
 
     get '/links/new' do
-      erb :"links/new"
+      erb :"links/new", :layout => !request.xhr?
     end
 
     get '/tags' do
